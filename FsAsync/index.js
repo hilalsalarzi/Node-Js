@@ -138,3 +138,29 @@ console.log(asynchro);
 //     }
 // });
 //___________file is been deleted_________________________________________________________________
+// fs.rmdir("FsAsyncCrud3",(err)=>{     
+//     if(err){
+//         console.log(`There is Error ${err}`);
+//     }
+//     else{
+//         console.log("Folder is deleted");
+//     }
+// });
+//___________folder is been deleted_________________________________________________________________
+
+// fs.rmdir("OsModule",(err)=>{
+//     if(err){
+//         console.log(`There is Error ${err}`);
+//     }
+//     else{
+//         console.log("Folder is deleted");
+//     }
+// });
+// fs.writeFile("../OsModule/index.js","// Os Module",(err)=>{     
+//     if(err){
+//         console.log(`There is Error ${err}`);
+//     }
+//     else{
+//         console.log("File is created");
+//     }
+// });
